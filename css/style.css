@@ -1,0 +1,26 @@
+
+#chart rect{
+fill: #743f74;
+}
+
+#chart text{
+fill: black;
+font: 10px sans-serif;
+text-anchor: middle;
+}
+
+.axis text{
+font: 30px sans-serif;
+font-weight: 1000;
+}
+
+.axis path, .axis line{
+fill: none;
+stroke : #333;
+shape-rendering: crispEdges;
+}
+
+body{
+color : #333333;
+padding-top : 20px;
+}
